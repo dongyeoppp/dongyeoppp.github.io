@@ -288,3 +288,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+git commit --allow-empty -m "Trigger rebuild"
+git push
