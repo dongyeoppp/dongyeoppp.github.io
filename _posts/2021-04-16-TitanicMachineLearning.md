@@ -309,7 +309,9 @@ plt.show()
 typora-capy-images-to: ..\images\20220416
 ```
 
-![image-20220416184859481](C:\Users\KoDongYeop\AppData\Roaming\Typora\typora-user-images\image-20220416184859481.png)
+![20220416](C:\Users\KoDongYeop\Desktop\images\20220416.png)
+
+
 
 이 결과를 더욱 개선하기 위해 다음을 수행할 수 있다.
 
