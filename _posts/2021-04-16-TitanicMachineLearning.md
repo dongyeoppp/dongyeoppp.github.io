@@ -309,7 +309,6 @@ plt.show()
 typora-capy-images-to: ..\images\20220416-1
 ```
 
-![20220416-1](images/20220416-1.png)
 ![20220416-1](https://user-images.githubusercontent.com/103740881/163678972-2c44476c-ffeb-4afa-abf8-ec7ba2726e10.png)
 
 
